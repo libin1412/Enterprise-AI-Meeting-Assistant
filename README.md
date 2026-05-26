@@ -325,25 +325,3 @@ Contributions, suggestions, and improvements are welcome.
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# ⭐ Acknowledgements
-
-- Google Gemini API
-- Streamlit
-- Python Open Source Community
-
----
-
-# 👨‍💻 Author
-
-Developed as part of an Enterprise AI Engineering portfolio project focused on:
-
-- Applied LLM Systems
-- Enterprise Workflow Automation
-- AI Productivity Tools
-- Real-World AI Applications
