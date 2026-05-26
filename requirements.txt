@@ -1,0 +1,6 @@
+#Enterprise-AI-Meeting-Assistant/requirements.txt
+
+streamlit
+python-dotenv
+google-generativeai
+pydantic
